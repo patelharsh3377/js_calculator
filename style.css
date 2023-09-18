@@ -1,0 +1,13 @@
+.tbl{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    
+}
+.buttons{
+    padding: 5px;
+    color: black;
+    border: ridge;
+    font-size: 18px;
+
+}
